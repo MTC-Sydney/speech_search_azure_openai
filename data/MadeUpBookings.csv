@@ -1,0 +1,31 @@
+﻿Booking ID,Guest Name,Location,Room Type,Room Number,Check-in Date,Check-out Date,Total Cost,Payment Status
+1,John Smith,New York City,Deluxe,101,1/01/2022,1/05/2022,"$1,000",Paid
+2,Jane Doe,Los Angeles,Standard,102,1/02/2022,1/06/2022,$800,Paid
+3,Michael Johnson,Chicago,Suite,103,1/03/2022,1/07/2022,"$2,000",Paid
+4,Emily Davis,Houston,Deluxe,104,1/04/2022,1/08/2022,"$1,000",Unpaid
+5,Sarah Brown,Phoenix,Standard,105,1/05/2022,1/09/2022,$800,Paid
+6,James Wilson,Philadelphia,Suite,106,1/06/2022,1/10/2022,"$2,000",Paid
+7,William Martinez,San Antonio,Deluxe,107,1/07/2022,1/11/2022,"$1,000",Unpaid
+8,Elizabeth Taylor,San Diego,Standard,108,1/08/2022,1/12/2022,$800,Paid
+9,David Anderson,Dallas,Suite,109,1/09/2022,01/13/2022,"$2,000",Paid
+10,Jessica Thomas,San Jose,Deluxe,110,1/10/2022,01/14/2022,"$1,000",Unpaid
+11,Linda Jackson,Austin,Standard,201,1/11/2022,01/15/2022,$800,Paid
+12,Robert White,Jacksonville,Suite,202,1/12/2022,01/16/2022,"$2,000",Paid
+13,Karen Harris,San Francisco,Deluxe,203,01/13/2022,01/17/2022,"$1,000",Unpaid
+14,Charles Clark,Indianapolis,Standard,204,01/14/2022,01/18/2022,$800,Paid
+15,Patricia Lewis,Columbus,Suite,205,01/15/2022,01/19/2022,"$2,000",Paid
+16,Richard Walker,Fort Worth,Deluxe,206,01/16/2022,01/20/2022,"$1,000",Unpaid
+17,Susan Hall,Detroit,Standard,207,01/17/2022,01/21/2022,$800,Paid
+18,Steven Young,El Paso,Suite,208,01/18/2022,01/22/2022,"$2,000",Paid
+19,Nancy Allen,Memphis,Deluxe,209,01/19/2022,01/23/2022,"$1,000",Unpaid
+20,Paul King,Boston,Standard,210,01/20/2022,01/24/2022,$800,Paid
+21,Jennifer Wright,Denver,Suite,301,01/21/2022,01/25/2022,"$2,000",Paid
+22,Barbara Nelson,Seattle,Deluxe,302,01/22/2022,01/26/2022,"$1,000",Unpaid
+23,George Carter,Washington DC,Standard,303,01/23/2022,01/27/2022,$800,Paid
+24,Ronald Mitchell,Nashville,Suite,304,01/24/2022,01/28/2022,"$2,000",Paid
+25,Anthony Perez,Portland,Deluxe,305,01/25/2022,01/29/2022,"$1,000",Unpaid
+26,Mary Rodriguez,Oklahoma City,Standard,306,01/26/2022,01/30/2022,$800,Paid
+27,Mark Turner,Las Vegas,Suite,307,01/27/2022,01/31/2022,"$2,000",Paid
+28,Laura Phillips,Atlanta,Deluxe,308,01/28/2022,2/01/2022,"$1,000",Unpaid
+29,Joseph Campbell,Miami,Standard,309,01/29/2022,2/02/2022,$800,Paid
+30,Margaret Parker,New Orleans,Suite,310,01/30/2022,2/03/2022,"$2,000",Paid
